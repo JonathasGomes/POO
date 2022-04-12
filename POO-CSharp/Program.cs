@@ -6,7 +6,11 @@ namespace POO_CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pessoa obj = new Pessoa();
+            obj.nome = "Jonathas";
+            obj.idade = 21;
+            obj.mensagem();
+
         }
     }
 }
