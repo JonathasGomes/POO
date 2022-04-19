@@ -3,7 +3,6 @@ C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\POO-CShar
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\POO-CSharp.runtimeconfig.json
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\POO-CSharp.runtimeconfig.dev.json
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\POO-CSharp.dll
-C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\ref\POO-CSharp.dll
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\bin\Debug\net5.0\POO-CSharp.pdb
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\POO-CSharp.csproj.AssemblyReference.cache
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\POO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\POO-CShar
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\ref\POO-CSharp.dll
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\POO-CSharp.pdb
 C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\POO-CSharp.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\POO-CSharp\obj\Debug\net5.0\refint\POO-CSharp.dll

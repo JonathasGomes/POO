@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\bin\Debug\net5.0\Aula5-Pratica.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\refint\Aula5-Pratica.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\Aula5-Pratica.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula5-Pratica\obj\Debug\net5.0\ref\Aula5-Pratica.dll
