@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\bin\Debug\net5.0\Aula6-Exercicios.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\refint\Aula6-Exercicios.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\Aula6-Exercicios.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula6-Exercicios\obj\Debug\net5.0\ref\Aula6-Exercicios.dll
