@@ -1,13 +1,14 @@
 ﻿using System;
 
-namespace Aula7_Acesso
+namespace Aula8_Encapsulamento
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Produto p = new Produto();
-            p.nome = "Jhon";
+            Aluno a = new Aluno();
+
+            a.Mensagem();
         }
     }
 }

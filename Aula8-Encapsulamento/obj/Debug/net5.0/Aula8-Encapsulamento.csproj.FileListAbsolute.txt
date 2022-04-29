@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\bin\Debug\net5.0\Aula8-Encapsulamento.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\refint\Aula8-Encapsulamento.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\Aula8-Encapsulamento.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula8-Encapsulamento\obj\Debug\net5.0\ref\Aula8-Encapsulamento.dll
