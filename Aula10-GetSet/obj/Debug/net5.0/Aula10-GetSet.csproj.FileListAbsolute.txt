@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\bin\Debug\net5.0\Aula10-GetSet.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\refint\Aula10-GetSet.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\Aula10-GetSet.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula10-GetSet\obj\Debug\net5.0\ref\Aula10-GetSet.dll
