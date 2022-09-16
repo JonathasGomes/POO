@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\bin\Debug\net5.0\Aula11-This.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\refint\Aula11-This.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\Aula11-This.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula11-This\obj\Debug\net5.0\ref\Aula11-This.dll
