@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\bin\Debug\net5.0\Aula12-Heranca.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\refint\Aula12-Heranca.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\Aula12-Heranca.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula12-Heranca\obj\Debug\net5.0\ref\Aula12-Heranca.dll
