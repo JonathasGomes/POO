@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\bin\Debug\net5.0\Aula16-Interface.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\refint\Aula16-Interface.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\Aula16-Interface.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula16-Interface\obj\Debug\net5.0\ref\Aula16-Interface.dll
