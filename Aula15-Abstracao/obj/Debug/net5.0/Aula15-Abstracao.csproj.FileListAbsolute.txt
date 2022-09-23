@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.exe
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.deps.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\bin\Debug\net5.0\Aula15-Abstracao.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\refint\Aula15-Abstracao.dll
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.pdb
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\Aula15-Abstracao.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\POO-CSharp\Aula15-Abstracao\obj\Debug\net5.0\ref\Aula15-Abstracao.dll
